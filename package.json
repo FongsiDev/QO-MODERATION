@@ -1,0 +1,73 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "asynckit": "^0.4.0",
+    "balanced-match": "^1.0.2",
+    "brace-expansion": "^1.1.11",
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "combined-stream": "^1.0.8",
+    "concat-map": "^0.0.1",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.26.1",
+    "discord-giveaways": "^5.1.1",
+    "discord-html-transcripts": "^2.2.8",
+    "discord-modals": "^1.2.9",
+    "discord.js": "^13.6.0",
+    "enmap": "^5.8.13",
+    "express": "^4.17.3",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "fs.realpath": "^1.0.0",
+    "glob": "^7.2.0",
+    "humanize-duration": "^3.27.1",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "minimatch": "^3.1.2",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.7",
+    "once": "^1.4.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "path-is-absolute": "^1.0.1",
+    "process": "^0.11.10",
+    "quick-fs": "^1.5.1",
+    "quickmongo": "^3.0.2",
+    "tr46": "^0.0.3",
+    "ts-mixer": "^6.0.1",
+    "tslib": "^2.3.1",
+    "util": "^0.10.4",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "wrappy": "^1.0.2",
+    "ws": "^8.5.0",
+    "zod": "^3.13.4"
+  },
+  "scripts": {
+    "start": "node ./src/Structures/Client.js"
+  },
+  "nodemonConfig": {
+    "ext": "js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.14.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FongsiDev/Testing-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FongsiDev/Testing-Bot/issues"
+  },
+  "homepage": "https://github.com/FongsiDev/Testing-Bot#readme",
+  "description": ""
+}

@@ -1,0 +1,106 @@
+{
+  "959869629436665926": {
+    "messageId": "959869629436665926",
+    "channelId": "959869433621393528",
+    "guildId": "907616994189275177",
+    "startAt": 1648922863781,
+    "endAt": 1649096392948,
+    "ended": false,
+    "winnerCount": 1,
+    "prize": "GET SOURCE MY BOT",
+    "messages": {
+      "giveaway": "** **",
+      "giveawayEnded": "** **",
+      "inviteToParticipate": "React with 🎉 to participate!",
+      "winMessage": "Congratulations, {winners}! You won **{this.prize}**!\n{this.messageURL}",
+      "drawing": "Drawing: {timestamp}",
+      "dropMessage": "Be the first to react with 🎉 !",
+      "embedFooter": "{this.winnerCount} winner(s)",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "Winner(s):",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {this.hostedBy}"
+    },
+    "thumbnail": "https://ezzud.fr/images/closedFixed.png",
+    "hostedBy": "<@678106287820505089>"
+  },
+  "959881150514479175": {
+    "messageId": "959881150514479175",
+    "channelId": "959868825581543458",
+    "guildId": "954524358636871720",
+    "startAt": 1648923898423,
+    "endAt": 1648923908423,
+    "ended": false,
+    "winnerCount": 1,
+    "prize": "GET SOURCE MY BOT",
+    "messages": {
+      "giveaway": "** **",
+      "giveawayEnded": "** **",
+      "inviteToParticipate": "React with 🎉 to participate!",
+      "winMessage": "Congratulations, {winners}! You won **{this.prize}**!\n{this.messageURL}",
+      "drawing": "Drawing: {timestamp}",
+      "dropMessage": "Be the first to react with 🎉 !",
+      "embedFooter": "{this.winnerCount} winner(s)",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "Winner(s):",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {this.hostedBy}"
+    },
+    "thumbnail": "https://ezzud.fr/images/closedFixed.png",
+    "hostedBy": "<@678106287820505089>"
+  },
+  "959882938391101582": {
+    "messageId": "959882938391101582",
+    "channelId": "959868825581543458",
+    "guildId": "954524358636871720",
+    "startAt": 1648924324598,
+    "endAt": null,
+    "ended": false,
+    "winnerCount": 1,
+    "prize": "GET SOURCE MY BOT",
+    "messages": {
+      "giveaway": "** **",
+      "giveawayEnded": "** **",
+      "inviteToParticipate": "React with 🎉 to participate!",
+      "winMessage": "Congratulations, {winners}! You won **{this.prize}**!\n{this.messageURL}",
+      "drawing": "Drawing: {timestamp}",
+      "dropMessage": "Be the first to react with 🎉 !",
+      "embedFooter": "{this.winnerCount} winner(s)",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "Winner(s):",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {this.hostedBy}"
+    },
+    "thumbnail": "https://ezzud.fr/images/closedFixed.png",
+    "hostedBy": "<@678106287820505089>",
+    "isDrop": true
+  },
+  "959890345510969394": {
+    "messageId": "959890345510969394",
+    "channelId": "954588382657400832",
+    "guildId": "954524358636871720",
+    "startAt": 1648926092159,
+    "endAt": 1648927892159,
+    "ended": true,
+    "winnerCount": 1,
+    "prize": "20",
+    "messages": {
+      "giveaway": "** **",
+      "giveawayEnded": "** **",
+      "inviteToParticipate": "React with 🎉 to participate!",
+      "winMessage": "Congratulations, {winners}! You won **{this.prize}**!\n{this.messageURL}",
+      "drawing": "Drawing: {timestamp}",
+      "dropMessage": "Be the first to react with 🎉 !",
+      "embedFooter": "{this.winnerCount} winner(s)",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "Winner(s):",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {this.hostedBy}"
+    },
+    "thumbnail": "https://ezzud.fr/images/closedFixed.png",
+    "hostedBy": "<@678106287820505089>",
+    "winnerIds": [
+      "678106287820505089"
+    ]
+  }
+}
